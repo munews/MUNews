@@ -58,7 +58,7 @@ h2
    border-radius: 10px;
    margin-bottom: 20px;
    margin-top: 20px;
-   width: 25%;
+   width: 5%;
 }
 
 #header
@@ -144,5 +144,6 @@ a
 {
     background-color: rgba(220, 220, 220, 0.568);
 }
+
 
 
